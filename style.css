@@ -1,0 +1,32 @@
+style.css
+h2{
+    color:orange;
+}
+h2{
+    color:orange;
+}
+body {
+    background-color: #305050;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+}
+footer {
+    border-top: 1px solid grey;
+}
+header{ 
+    border-bottom: 1px solid grey; 
+}
+.texto-inglês{
+    font-style: italic;
+}
+#nome-usuário {
+    font-weight: bold;
+}
+<h2>HTML</h2>
+<P><span class="texto-inglês">Hypertext Markup Language </span>(em português, Linguagem de Marcação de Hipertexto) estrutura a sua página web</P>
+
+<h2>CSS</h2>
+<P><span class="texto-inglês">Cascading Style Sheets </span>(em português, Folha de Estilo em Cascata) estiliza a sua página web</P>      
+
+
